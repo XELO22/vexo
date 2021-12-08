@@ -12,4 +12,4 @@
 
 
 
-• 🌱 I’m currently learning ... python and nodejs and lua
+• 🌱 I’m currently learning ... python 
