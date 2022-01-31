@@ -4,7 +4,7 @@
 
 
 
-• 👀 I’m interested in ... lua c++
+• 👀 I’m interested in ... lua, go
 
 
 
